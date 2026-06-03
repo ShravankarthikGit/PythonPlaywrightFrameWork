@@ -1,0 +1,10 @@
+
+[OK] Launching Browser: chromium (Headed: True)
+[INFO] Navigating to: http://localhost/opencart/upload/
+[TRACE] Tracing enabled - capturing screenshots and actions
+[RESULT] Test 'test_login_data_driven[Valid login-pavanol@abc.com-test@123-success]' result: [FAIL]
+[SAVE] Trace saved: reports/traces/test_login_data_driven[Valid login-pavanol@abc.com-test@123-success]_trace.zip
+[SAVE] Screenshot saved: reports/screenshots/test_login_data_driven[Valid login-pavanol@abc.com-test@123-success].png
+[ATTACH] Screenshot attached to Allure report
+[ATTACH] Video attached to Allure report
+[CLEANUP] Closing browser session context cleanly...

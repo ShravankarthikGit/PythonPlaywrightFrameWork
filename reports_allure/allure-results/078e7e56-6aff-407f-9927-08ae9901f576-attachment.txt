@@ -1,0 +1,13 @@
+
+[OK] Launching Browser: chromium (Headed: True)
+[INFO] Navigating to: http://localhost/opencart/upload/
+[TRACE] Tracing enabled - capturing screenshots and actions
+✅ Registration completed successfully!
+✅ Logout completed successfully!
+✅ Login completed successfully!
+✅ Product added to cart successfully!
+🛒 Navigated to Shopping Cart Page!
+✅ Shopping cart verification completed!
+[RESULT] Test 'test_end_to_end_flow' result: [PASS]
+[SAVE] Trace saved: reports/traces/test_end_to_end_flow_trace.zip
+[CLEANUP] Closing browser session context cleanly...

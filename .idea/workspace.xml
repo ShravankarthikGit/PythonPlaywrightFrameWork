@@ -5,36 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0ac3717a-8fcb-4963-8d9a-3dab801bd1a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonPlaywrightFrameWork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conftest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/checkout_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/home_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/login_practice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/logout_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/my_account_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/product_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/registration_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/search_results_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/shopping_cart_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/logindata.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/logindata.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testdata/logindata.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test_user_registration.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/data_reader_util.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/random_data_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Framework-steps.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpencartSetup.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_add_product_to_cart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_end_to_end.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_login_data_driven.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_product_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/test_user_logout.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/traces/test_invalid_user_login_trace.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/traces/test_valid_user_login_trace.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/videos/page@5ad0db5a85ba1c23983cee53d71487f4.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports/videos/page@8a25781c16fbef4eca74cbc5a2775a03.webm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/0a4fe824-0e9b-45e8-bac3-d82f060a5f33-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/121a6cfe-4a68-4c49-b4b4-ffb1df0b1299-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/208ca937-d989-4ce5-9f1a-7945a8f618e4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/2b85a440-1d26-4f68-93f7-afb9c59469af-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/3905730a-3212-409f-b278-e24435761677-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/72270c75-b4ad-46d5-8f94-ba0a11ec6682-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/75b41281-8fa9-410f-8cbc-619e85ed77dc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/79d26fc6-cdda-4891-8f7b-df25cd83e3d6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/97724fcb-ff5d-4d40-a843-b77b188f6071-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/b54bf2c1-6c0c-4b73-a710-33e06594f13a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/c2517187-7cd9-49a3-8a66-1df86c70e1ec-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/c944c92e-d93f-43b9-a004-cf3732430079-attachment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_allure/allure-results/cb4b33c6-bcf7-453c-b076-4065131a554e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/reports_html/myreport.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/data_reader_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/data_reader_util.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/random_data_util.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/random_data_util.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +63,45 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python tests.Python tests in test_login.py.executor": "Run",
+    "Python tests.Python tests in test_login_data_driven.py.executor": "Run",
+    "Python tests.Python tests in test_user_registration.py.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/nshra/git/PythonPlaywrightFrameWork/tests"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\nshra\git\PythonPlaywrightFrameWork\tests" />
+      <recent name="C:\Users\nshra\git\PythonPlaywrightFrameWork" />
       <recent name="C:\Users\nshra\git\PythonPlaywrightFrameWork\utils" />
       <recent name="C:\Users\nshra\git\PythonPlaywrightFrameWork\testdata" />
       <recent name="C:\Users\nshra\git\PythonPlaywrightFrameWork\pages" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests in test_login_data_driven.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonPlaywrightFrameWork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/test_login_data_driven.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests in test_login_data_driven.py" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
