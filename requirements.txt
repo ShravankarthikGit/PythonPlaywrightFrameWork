@@ -1,0 +1,18 @@
+# Core Testing Framework and Automation
+pytest-playwright>=0.6.0
+playwright>=1.60.0
+
+# Parallel Execution and Optimization
+pytest-xdist>=3.8.0
+
+# Reporting Tools
+pytest-html>=4.2.0
+allure-pytest>=2.16.0
+
+# Flaky Test Management
+pytest-rerunfailures>=14.0
+
+# Data-Driven Testing and Utilities
+openpyxl>=3.1.0
+Faker>=25.0.0
+python-slugify>=8.0.0
